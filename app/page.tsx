@@ -2,7 +2,7 @@
 
 import Hero from "@/components/Hero";
 import Project from "@/components/Project";
-import { projectsList } from "@/app/lib/projectsList";
+import { projectsList } from "@/lib/projectsList";
 
 export default function Home() {
   return (

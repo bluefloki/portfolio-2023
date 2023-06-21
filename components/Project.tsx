@@ -1,6 +1,6 @@
 "use client";
 
-import { useIntersection } from "@/app/hooks/useIntersection";
+import { useIntersection } from "@/lib/hooks/useIntersection";
 import Image from "next/image";
 import Link from "next/link";
 import { useRef } from "react";
