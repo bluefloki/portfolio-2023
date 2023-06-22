@@ -37,7 +37,7 @@ export default function Hero() {
   return (
     <div className="hero-bg h-screen flex flex-col items-center justify-center py-2 px-4 md:py-12 md:px-20 gap-10 md:gap-12 animate-fade-up">
       {/* Hero */}
-      <h1 className="text-5xl md:text-6xl font-bold md:mb-2 text-center gradient-text h-28 md:h-auto md:py-2 animate-none">
+      <h1 className="text-5xl md:text-6xl font-bold md:mb-2 text-center gradient-text h-36 md:h-auto md:py-2 animate-none">
         Hey there, I <span ref={el} />
       </h1>
 
